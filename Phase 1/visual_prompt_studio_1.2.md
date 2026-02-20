@@ -17,4 +17,4 @@ Create a black-and-white archival-style photograph inspired by a gallery artwork
 
 ![Handwritten Reflection](reflection_1.2.jpg)
 
-Handwritten reflection included as reflection_1.2.jpg
+
