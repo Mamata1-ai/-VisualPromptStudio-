@@ -1,7 +1,7 @@
 # Visual Prompt Studio 1.3 – Interpreting Form & Content Through Design Principles
 
 ## Original Artwork
-![Original Artwork](artwork_1.3.jpg)
+![Original Artwork](Art_work_1.3.jpg)
 
 ## Copilot Recreation
 ![Generated Image](generated_1.3.jpg)
