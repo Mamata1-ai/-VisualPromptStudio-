@@ -1,7 +1,7 @@
 # Visual Prompt Studio 1.2 – Gallery Artwork Study
 
 ## Selected Artwork
-![Original Artwork](artwork_1.2.jpg)
+![Original Artwork](Art_work_1.2.jpg)
 
 Artist: NiEtta Reynolds  
 Title: My Roots  
