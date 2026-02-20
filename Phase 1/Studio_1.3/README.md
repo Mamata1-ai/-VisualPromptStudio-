@@ -1,12 +1,12 @@
 # Visual Prompt Studio 1.3 – Interpreting Form & Content Through Design Principles
 
-This folder contains the handwritten comparative analysis for Studio 1.3.
+## Original Artwork
+![Original Artwork](artwork_1.3.jpg)
 
-Files included:
-- analysis_1.3.jpg (handwritten response comparing original artwork and AI recreation)
+## Copilot Recreation
+![Generated Image](generated_1.3.jpg)
 
-This analysis examines:
-- Focal Point & Emphasis
-- Pattern & Rhythm
-- Form
-- Content and Meaning
+## Handwritten Comparative Analysis
+![Analysis Page 1](analysis_1.3_page1.jpg)
+![Analysis Page 2](analysis_1.3_page2.jpg)
+![Analysis Page 3](analysis_1.3_page3.jpg)
