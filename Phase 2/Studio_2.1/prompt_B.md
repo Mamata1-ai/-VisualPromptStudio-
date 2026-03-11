@@ -1,0 +1,3 @@
+# Prompt B – Linocut Print
+
+Create a linocut print that emphasizes contrast, texture, rhythm, and emphasis. Show a young woman standing alone in a rainy city street at night holding an umbrella under a streetlight. Use bold carved lines, strong black and white shapes, and repeated marks to suggest rain, reflections, and the city background. The composition should use directional lines from the street and buildings to lead the viewer’s eye toward the woman. Use the high contrast of black ink and white paper to make the figure the focal point. The print should feel dramatic, quiet, and expressive.
