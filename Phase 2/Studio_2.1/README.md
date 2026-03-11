@@ -18,4 +18,4 @@ Create a linocut print that emphasizes contrast, texture, rhythm, and emphasis. 
 
 ## Reflection
 
-See **reflection_2.1.md** for the written reflection about the differences between the painting and printmaking versions.
+
