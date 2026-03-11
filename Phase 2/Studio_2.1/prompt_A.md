@@ -1,0 +1,3 @@
+# Prompt A – Acrylic Painting
+
+Create an acrylic painting that emphasizes contrast, texture, movement, and emphasis. Show a young woman standing alone in a rainy city street at night holding an umbrella under a glowing streetlight. Use visible brushstrokes, layered acrylic paint, and thick texture to create the wet surface of the street and the glowing light reflections. The composition should use directional lines from the sidewalk and buildings to guide the viewer’s eye toward the woman. Use contrast between the warm yellow light and the cool dark blue night to create mood and focus. The painting should feel emotional, quiet, and reflective.
