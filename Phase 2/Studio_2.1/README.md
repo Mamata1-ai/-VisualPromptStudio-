@@ -18,4 +18,6 @@ Create a linocut print that emphasizes contrast, texture, rhythm, and emphasis. 
 
 ## Reflection
 
+![Reflection](reflection_2.1.jpg)
+
 
