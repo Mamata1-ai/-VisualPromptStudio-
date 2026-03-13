@@ -4,4 +4,4 @@
 ![Cyanotype](cyanotype.jpeg)
 
 ## Reflection
-![Reflection](reflection 2.3.jpeg)
+![Reflection](reflection_2.3.jpeg)
